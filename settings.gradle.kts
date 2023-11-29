@@ -16,3 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidStudyKotlin202311"
 include(":app01")
 include(":app02")
+include(":app03")
+include(":app04")

@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         val db = Room.databaseBuilder(
             applicationContext,
-            AppDatabase::class.java, "db03"
+            AppDatabase::class.java, "db01"
         )
             .allowMainThreadQueries()
             .build()
